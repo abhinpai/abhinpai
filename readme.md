@@ -2,7 +2,7 @@
 
 <img align="right" src="https://firebasestorage.googleapis.com/v0/b/pai-profile.appspot.com/o/profile%2Fui_design_.svg?alt=media&token=7bf47aa2-fa04-4811-a7a6-e1bd8d60b087" width="260">
 
-Hi there! I'm Abhin - a full-stack software engineer @ **Honeywell Technology Solution** 
+Hi there! I'm **Abhin**, a full-stack software engineer @ **Honeywell Technology Solution** 
 
 Im an open-source enthusiast usually in my spare time I roam around in the realms of React, Redux, Docker, Flutter, Firebase, DevOps, and much more. I love connecting with peers, I'm always eager to discover new technologies and sharing my knowledge with others.
 
