@@ -6,7 +6,7 @@ Hi there! I'm Abhin - a full-stack software engineer @ **Honeywell Technology So
 
 Im an open-source enthusiast usually in my spare time I roam around in the realms of React, Redux, Docker, Flutter, Firebase, DevOps, and much more. I love connecting with peers, I'm always eager to discover new technologies and sharing my knowledge with others.
 
-### Talk to me about
+### 🙋🏻‍♂️ Talk to me about
 * Concept of **Javascript** and **Typescript**
 * Front-end development with **React** 
 * Mobile application development using **Flutter** and **Ionic**  
