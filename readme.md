@@ -1,6 +1,6 @@
 ### Namaste 🙏🏼
 
-<img align="right" src="https://firebasestorage.googleapis.com/v0/b/pai-profile.appspot.com/o/profile%2Fhero_new.svg?alt=media&token=17aee766-e0c4-40ee-8f54-a82e34445fcb" width="260">
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/abhinpai-portfolio.appspot.com/o/hero-2.svg?alt=media&token=aca16edf-c991-4882-9b86-8620d4d015de" width="260">
 
 Hi there! I'm **Abhin**, a full-stack software engineer @ **Honeywell Technology Solution** 
 
