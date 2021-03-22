@@ -4,7 +4,9 @@
 
 Hi there! I'm **Abhin**, a full-stack software engineer @ **Honeywell Connected Enterprise** 
 
+```
 I'm an open-source enthusiast usually in my spare time I roam around in the realms of **React**, **Redux**, **Docker**, **Flutter**, **GraphQL**, **DevOps**, and much more. I love connecting with peers, I'm always eager to discover new technologies and sharing my knowledge with others and i also like to brew some malt
+```
 
 ### 🙋🏻‍♂️ I do have good hands on the following technologies
 * **Javascript**, **TypeScript** and **React** for building elegant pixel-perfect application
@@ -23,9 +25,8 @@ I'm an open-source enthusiast usually in my spare time I roam around in the real
 * 🕸 Kubernetes
 * ⚙️  Service Workers
 
-```
 ### 🤷🏼‍♂️ How to reach me out
 * Reach out to me via my [personal website](https://abhinpai-portfolio.web.app/) 
 * Connect me over [Tweet](https://twitter.com/paiabhin)
 * Lets catchup in [Linkedin](https://www.linkedin.com/in/abhinpai)
-```
+
