@@ -26,7 +26,7 @@ I'm an open-source enthusiast usually in my spare time I roam around in the real
 * ⚙️  Service Workers
 
 ### 🤷🏼‍♂️ How to reach me out
-* Reach out to me via my [personal website](https://abhinpai-portfolio.web.app/) 
+* Reach out to me via my [personal website](https://abhinpai.in) 
 * Connect me over [Tweet](https://twitter.com/paiabhin)
 * Lets catchup in [Linkedin](https://www.linkedin.com/in/abhinpai)
 
